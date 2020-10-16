@@ -1,9 +1,9 @@
 Se tienen los siguientes datos:
-	943 peliculas
-	1682 clientes
+	1682 peliculas
+	943 clientes
 	100,000 calificaciones
 
 Cada renglón en el archivo Peliculas_Clientes.txt tiene la siguiente sintaxis:
-Pelicula   Clientes 	Calificación
+Cliente   Pelicula 	Calificación
 	ID
 
